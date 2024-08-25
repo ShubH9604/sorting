@@ -1,6 +1,6 @@
 import java.util.*; 
 
-//bubble sort
+//bubble sort 
 public class Sorting{
     
     public static void printArray(int arr[]){
