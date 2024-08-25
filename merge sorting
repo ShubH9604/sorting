@@ -1,7 +1,7 @@
 class Sorting {
     
     //merge sorting
-    public static void conquer(int arr[], int si, int mid, int ei){
+    public static void conquer(int arr[], int si, int mid, int ei){ 
         int merged[] = new int[ei - si + 1];
         
         int idx1 = si;
